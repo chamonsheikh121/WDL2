@@ -144,12 +144,13 @@ User (Admin Account)
   "updatedAt": ""
 }
 
-🔗 API Endpoints
+ 🔗 API Endpoints
+
 User
 
-POST /user/create-student
+- POST /user/create-student
 
-POST /user/create-faculty
+- POST /user/create-faculty
 
 POST /user/create-admin
 
@@ -157,7 +158,7 @@ Student
 
 GET /students
 
-GET /students/:id
+- GET /students/:id
 
 PATCH /students/:id
 
